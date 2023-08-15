@@ -1,6 +1,5 @@
-<h1>Hướng dẫn cài đặt</h1>  <h3>Liên hệ: <a href="https://www.facebook.com/khoa.nguyenvan.99"><em>Khoa Nguyễn</em></a></h3>
 (1) install Laragon: https://laragon.org/download/ <br>
-(2) git clone https://github.com/khoa2698/emr-khoanguyen <br>
+(2) git clone https://github.com/Ngoclinh061201/emr <br>
 (3) copy thư mục vừa clone về vào folder www của Laragon <br>
 (4) composer install <br>
 (5) npm install <br>
